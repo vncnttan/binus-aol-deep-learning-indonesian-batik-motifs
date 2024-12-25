@@ -55,7 +55,7 @@ Batik Megamendung
 - [x] `46.jpg` -> Cropped to remove white space
 
 ### Reference
-1. [Google](www.google.com)
-    - Arsitektur: 
-    - Performa:
+1. [Klasifikasi Motif Batik Menggunakan Metode Convolutional Neural Network (CNN) Dengan Multi Class Clasification](https://journal.amikomsolo.ac.id/index.php/itcida/article/download/206/145)
+    - Arsitektur: Convolutional Neural Network (CNN)
+    - Performa: 93%
     - asdfasdf
